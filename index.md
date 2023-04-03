@@ -1,5 +1,5 @@
 ---
 layout: redirected
 sitemap: false
-redirect_to: https://lifeistech.co.jp/
+redirect_to: https://suprise-44236.web.app/
 ---
